@@ -12,7 +12,7 @@
 
 ---
 ## 📊 GitHub Stats
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Belal-amar&layout=compact&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com/?user=Belal-amar)]
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Belal-amar&layout=compact&theme=radical) 
 
 
 ## 📈 GitHub Activity
