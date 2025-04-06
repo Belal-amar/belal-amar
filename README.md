@@ -12,8 +12,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![Belal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Belal-amar&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Belal-amar&layout=compact&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com/?user=Belal-amar)]
+
 
 ## 📈 GitHub Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Belal-amar&theme=redical" alt="GitHub Activity Graph">
