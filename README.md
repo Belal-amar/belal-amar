@@ -15,9 +15,6 @@
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Belal-amar&layout=compact&theme=radical) 
 
 
-## 📈 GitHub Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Belal-amar&theme=redical" alt="GitHub Activity Graph">
----
 
 ### 💬 **Let’s Build Something Amazing**  
 🚀 **I love collaborating** with fellow developers, creators, and problem-solvers. If you're working on an open-source project or have a cool idea, let's connect!  
