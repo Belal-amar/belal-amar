@@ -1,6 +1,6 @@
 # Hi there, I'm Belal A`mar! 
-🌍 Palestinian Developer | Oracle financial Consultant
-🎯 Full Stack Developer | 🚀 Aspiring Impact Maker  
+🌍 Palestinian Developer |Full Stack Developer
+🎯  Oracle financial Consultant | 🚀 Aspiring Impact Maker  
 
 
 👨‍💻 I'm a full-stack developer passionate about building impactful applications. I enjoy learning new technologies, improving my problem-solving skills, and collaborating on meaningful projects.  
